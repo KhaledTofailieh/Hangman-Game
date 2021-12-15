@@ -1,0 +1,38 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#lab3
+{
+	
+	-fx-text-fill:yellowgreen    ;
+	-fx-font-weight: bold;
+}
+#lab1
+{
+	
+	-fx-text-fill:rgb(204,204,51)    ;
+	-fx-font-weight: bold;
+	-fx-font-size: 24px;
+}
+#lab4
+{
+	
+	-fx-text-fill:brown  ;
+	-fx-font-weight: bold;
+}
+#root1
+{
+	-fx-background-image: url("hg.png");
+	-fx-background-repeat: no-repeat ;
+	-fx-background-size: 100% 100%;
+}
+#root2
+{
+	
+	-fx-background-image: url("hg1.png");
+	-fx-background-repeat: no-repeat ;
+	-fx-background-size: 100% 100%;
+}
+.startbtnsbtn
+{
+	-fx-fill:azure  ;
+	-fx-font-size: 60px;
+}
